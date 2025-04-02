@@ -46,7 +46,7 @@ BEGIN{
 		cnt_POST++
 	}
 	if (substr($6,2)=="PUT"){
-		snt_PUT++
+		сnt_PUT++
 	}
 }
 END {
